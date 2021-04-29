@@ -1,0 +1,2 @@
+# InheritanceJava
+ Java Camp Inheritance 
